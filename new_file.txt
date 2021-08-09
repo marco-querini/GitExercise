@@ -1,1 +1,6 @@
-My New File (modified)
+My New File
+
+-------------------------------------
+I am going to modify this file ....
+
+-------------------------------------
